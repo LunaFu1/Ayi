@@ -1084,7 +1084,8 @@ section.contact-me {
 .company-card {
   display: flex;
   flex-direction: column;
-  height: 100%;
+  justify-content: space-between;
+  min-height: 400px; /* 自行根据内容调整，建议不要太小 */
 }
 
 .company-body {

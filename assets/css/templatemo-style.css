@@ -1085,7 +1085,7 @@ section.contact-me {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 400px; /* 自行根据内容调整，建议不要太小 */
+  min-height: 420px;
 }
 
 .company-body {
